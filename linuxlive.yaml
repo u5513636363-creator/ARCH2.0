@@ -1,7 +1,7 @@
-# ARCH2.0, made with the linuxlive.com wizard on 2026-11-19.
+# ARCH_2.0, made with the linuxlive.com wizard on 2026-11-20.
 # Build it in your own GitHub from https://github.com/Eric-Ness/linuxlive-distro (see README.md)
 schema_version: 1
-name: "ARCH2.0"
+name: "ARCH_2.0"
 version: "1"
 base: fedora
 desktop: cinnamon
@@ -19,9 +19,9 @@ apps:
 branding:
   wallpaper: assets/wallpaper.png
   logo: assets/logo.png
-  accent_color: "#000000"
+  accent_color: "#373fb3"
 settings:
-  hostname: rootf4
+  hostname: rootings
   dock:
     - firefox
     - libreoffice
